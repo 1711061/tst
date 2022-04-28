@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="UJ?D`_tM^u1dy-),;9Vm" x="0" y="0"/><block type="device_forever" id="lyIZR%!6t8S+IM}kRy];" x="205" y="0"><statement name="HANDLER"><block type="device_print_message" id="2=7}N6.#Q*{dL8}qG%BR"><value name="text"><shadow type="text" id="`3C5/~8W(d6e|1{C?i{)"><field name="TEXT">   hello chloe</field></shadow></value><next><block type="device_clear_display" id="jcar6DhN^2R=DYdv1@gU"><next><block type="basic_show_icon" id="zWiZ^efjWs;tg98Ihpwg"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="`H{-^}(dGB`B)BM~0@Ew"><field name="LEDS">`
+        # # # # # 
+        # # . # # 
+        # . # . # 
+        # # . # # 
+        # # # # #
+        `</field><next><block type="device_print_message" id="!LLlu5=OcpU5sEu/:oXO"><value name="text"><shadow type="text" id="w3N1#;v1*%$^N$,Ed0yF"><field name="TEXT">chloelove</field></shadow></value></block></next></block></next></block></next></block></next></block></statement></block></xml>
